@@ -1,0 +1,42 @@
+v1.0.0
+
+-
+
+v1.0.1
+- jangan lupa check db di .env
+- menambahkan metode convert manual dari db lama
+
+v1.0.2
+- hapus tambah data dari menu utama, bisa diakses di menu sebelah kiri
+- ubah nama: By Name By Address -> Pencarian penduduk dengan data kuisioner
+- ubah susunan halaman utama
+- ubah nama: Desa -> Desa/Kelurahan
+- tambah semua halaman tabel desa dalam angka dan spasial, disertai tooltip
+- admin mylaptop77@gmail.com tidak bisa dimatikan/dihapus
+- ajax notif jika jaringan gagal
+- penyesuaian halaman login
+- fix lokasi backup database
+- fix datatable css
+- hapus 'ganti kk baru' dari flag, index, edit kependudukan
+
+v1.0.3
+- custom kolom pada tabel dinamis
+- menambahkan kolom tanggal lahir pada blok4
+- otomatis menyesuaikan umur ketika tanggal lahir diisi
+- otomatis mengganti nama kepala keluarga ketika b4k3=1
+- otomatis menghitung anggota keluarga ketika tambah atau ganti flag
+- otomatis menyesuaikan umur ketika tabel 1, desa dalam angka dimuat
+
+v1.0.4
+- perbaikan import bip
+- fix layout
+
+v1.0.5
+- perbaikan multiple input di blok4
+- menampilkan rincian text b4k26
+- perbaikan nik pindah kk baru
+- perbaikan b5k8 nama list, bisa selain anggota keluarga
+
+v1.0.6
+- penambahan import data vaksin
+- fix b4k26 list pada pencarian penduduk
