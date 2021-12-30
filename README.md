@@ -1,4 +1,4 @@
-# desacantikwonosobo
+# Desa Cantik Wonosobo V1.0.6
 Web Lokal untuk entri dan update data desa cantik wonosobo
 
 PANDUAN INSTAL WEB LOKAL DESA CANTIK
